@@ -4,7 +4,8 @@
 This project demonstrates how to host a dynamic website using AWS services while leveraging the free tier. The architecture is designed for security, cost efficiency, and scalability.
 
 ---
-![AWS Architecture](https://github.com/user-attachments/assets/99e2b5cd-7e1e-4a5c-b0b1-074959a82ddb)
+![AWS Architecture (1)](https://github.com/user-attachments/assets/cfe49b3f-d04f-4927-ad88-02f1d1b768c7)
+
 
 
 ## Key AWS Services Used
